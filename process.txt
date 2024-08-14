@@ -1,0 +1,12 @@
+CRUD-Advance
+npm init -y
+npm i express mongoose dotenv nodemon mongodb
+
+backend
+
+
+frontend
+
+mongoDB
+Username: stormaker777
+password: LiSY62A3zvzc8DQ6
